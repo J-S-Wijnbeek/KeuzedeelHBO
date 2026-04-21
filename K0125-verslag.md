@@ -76,6 +76,8 @@ Voeg je ontwikkelcanvas toe en licht kort toe hoe dit canvas je keuze ondersteun
 
 ### Werkwijze
 Beschrijf je werkwijze bij het verzamelen en analyseren van informatie voor de (studie)opdracht.
+Ik heb de informatie van mijn studie opdracht opgehaald uit presentaties, en documenten van de opdrachtgever, daarna zijn we naar de docent gegeaan voor duidelijke uitleg van wat we nodig hebben om de site op te zetten, zoals docker, kubemetrics en figma, asp.net en react alles uitgezocht en opgezet met instructies van de docent.
+Door de weken heen confirmatie gezocht voor bepaalde designs en manieren op hoe het toe te passen bij de docent
 
 ### Verzamelde informatie
 - Orden de informatie duidelijk.
@@ -84,9 +86,14 @@ Beschrijf je werkwijze bij het verzamelen en analyseren van informatie voor de (
 
 ### Bronnen en betrouwbaarheid
 - Welke bronnen heb je gebruikt?
+ https://docs.docker.com/
+  https://www.figma.com/
 - Waarom zijn deze bronnen relevant?
+ hier staat de correcte informatie, waar je de odpracht op kan bouwen
 - Hoe heb je betrouwbaarheid gecontroleerd?
+ het zijn de officiele websites 
 - Welke personen heb je bevraagd?
+docent, mentor, 
 
 ### Product Backlog(s)
 Voeg relevante product backlog(s) toe en koppel deze aan je informatieverzameling en analyse.
