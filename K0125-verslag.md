@@ -1,10 +1,10 @@
 # K0125-voornaam-achternaam-studentnummer
 
 ## Voorblad
-- Voornaam: 
-- Achternaam: 
-- Studentnummer: 
-- Klas: 
+- Voornaam: Jasper
+- Achternaam: Wijnbeek
+- Studentnummer: 1344156
+- Klas: 3HSDI2
 - Opleiding: Software Developer (MBO 4)
 - Keuzedeel: Voorbereiding werken of doorstromen voor SD-ers
 
@@ -21,13 +21,10 @@
 ---
 
 ## Inleiding
-Dit verslag bevat alle onderdelen uit de toetsings-PDF voor keuzedeel K0125:
 - D1-K1-W1
 - D1-K1-W2
 - D1-K1-W3
 - D1-K1-W4
-
-> Let op: **360 graden feedback is op verzoek overgeslagen**.
 
 ---
 
@@ -37,31 +34,34 @@ Dit verslag bevat alle onderdelen uit de toetsings-PDF voor keuzedeel K0125:
 Beschrijf minimaal drie verschillende activiteiten waarmee je hebt onderzocht of hbo en een beroep bij je passen.
 
 #### Activiteit 1
-- Wat heb je gedaan?
-- Wanneer?
-- Wat was de uitkomst?
+- opendag gevolgd van het saxion
+- 28-3-2026
+- Meer te weten gekomen over het saxion en welke richting ik op kan.
 
 #### Activiteit 2
-- Wat heb je gedaan?
-- Wanneer?
-- Wat was de uitkomst?
+- Online geinformeerd over het saxion hier https://www.youtube.com/@HogeschoolSaxion
+- 21-4-2026
+- Veel te weten gekomen over de cultuur van het saxion en als het wel wat voor mij is.
 
 #### Activiteit 3
-- Wat heb je gedaan?
-- Wanneer?
-- Wat was de uitkomst?
+- Met vak collega's en vrienden die software development op het saxion in enschede en deventer volgen, besproken hoe en wat ik kan doen om me voor te bereiden
+- Elk weekend vanaf rond 28 februari tot heden
+- Ervaringen gehoord, besproken en gediscussieerd en hiermee weer meer informatie opgedaan
 
 ### Scholen (hbo)
-- Welke scholen heb je bezocht?
-- Wanneer heb je dit gedaan?
-- Welke voorlichting(en) heb je bezocht?
-- In hoeverre sprak de voorlichting/opleiding je aan?
+- Saxion Enschede
+- 28 Maart
+- Software Development
+- Hoe werkt studeren op het hbo?
+- Studiekeuze & twijfels
+- Studentenleven / begeleiding
+- Best wel erg, ik heb havo gedaan en ben wel gewend om thuis te werken dus dit beviel me wel
 
 ### Beroepen
-- Welke beroepen spreken je aan?
-- Met wie heb je hierover gesproken?
-- Wanneer heb je dit besproken?
-- Wat heb je uit deze gesprekken geleerd?
+- Software engineer & Cloud Engineer / Cloud Specialist
+- Mentor, Docenten, Ouders, Broer, Vrienden & vak collega's
+- Dagelijks
+- Dat je vooral moet doen wat je graag wilt en het andere er bij doen als je het leuk vind
 
 ### Rubric #2 – Gefundeerde beslissing
 - Kies je voor **werken** of **doorstromen**?
